@@ -29,17 +29,14 @@ author:
   location         : "Room 308, Department of Psychology, SWU"
   employer         : 
   uri              : 
-  email            : "Yanlab@qq.com" 
+  email            : &email "Yanlab@qq.com" 
 
   # Academic websites
   arxiv            : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=BhSxGWYAAAAJ"
+  repository       : "yanlab.github.io"
   impactstory      : 
-  orcid            : 
-  semantic         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : 
-  scopus           : 
+
 
   # Repositories and software development
   bitbucket        :
