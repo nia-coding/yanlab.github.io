@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Yanlab"
+title: "About us"
 author_profile: true
 redirect_from: 
   - /about/
